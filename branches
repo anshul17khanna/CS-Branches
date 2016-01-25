@@ -1,7 +1,7 @@
-"COE":
-	{
+{"COE":
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -11,9 +11,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Principles of Electrical Engg" : 4,
 				"Applied Mechanics" : 4,
 				"Mathematics II" : 4,
@@ -23,9 +23,9 @@
 				"Applied Mechanics" : 2,
 				"Introduction to Programming" : 2,
 				"Physics of Materials" : 2
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Electronics I" : 4,
 				"Circuits and Systems" : 4,
 				"Power Apparatus" : 4,
@@ -36,9 +36,9 @@
 				"Electrical Measurements" : 2,
 				"Machine Drawing" : 3,
 				"Programming I" : 1
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"Electronics II" : 4,
 				"Electromagnetics I" : 4,
 				"Data Structures" : 4,
@@ -51,9 +51,9 @@
 				"Practical Training" : 2,
 				"Report Writing" : 1,
 				"Programming II" : 1
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Principles of Computer Graphics" : 4,
 				"Discrete Maths and Design of Alg." : 4,
 				"Computer System Org." : 4,
@@ -63,9 +63,9 @@
 				"Linear Integrated Circuits" : 2,
 				"Principles of Computer Graphics" : 2,
 				"Programming III" : 1
-			},
+			}],
 		"Semester6":
-			{
+			[{
 				"Microprocessors" : 4,
 				"DBMS" : 4,
 				"OS" : 4,
@@ -76,9 +76,9 @@
 				"Control Engineering" : 2,
 				"Programming IV" : 1,
 				"Practical Training" : 2
-			},
+			}],
 		"Semester7":
-			{
+			[{
 				"Compiler and Translator Design" : 4,
 				"Digital Circuits and Systems II" : 4,
 				"Microprocessor Applications" : 4,
@@ -89,9 +89,9 @@
 				"Electives I and II" : 2,
 				"Practical Training" : 3,
 				"System Programming Language" : 1
-			},
+			}],
 		"Semester8":
-			{
+			[{
 				"Computer Comm. and Electronics Swng." : 4,
 				"Elective III" : 4,
 				"Elective IV" : 4,
@@ -99,14 +99,14 @@
 				"Project" : 8,
 				"Practical Training" : 4,
 				"Seminar/Reports" : 1
-			}
-	}
+			}]
+	}],
 
 
 "IT":
-	{
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -116,9 +116,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Principles of Electrical Engg" : 4,
 				"Mechanical Sciences" : 4,
 				"Engineering Mathematics I" : 4,
@@ -128,9 +128,9 @@
 				"Mechanical Sciences Lab" : 2,
 				"Introduction to Programming Lab" : 2,
 				"Linux/UNIX Lab" : 2
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Data Structures" : 4,
 				"Digital Circuits and Systems" : 4,
 				"Analog Electronics" : 4,
@@ -140,9 +140,9 @@
 				"Digital Circuits and Systems Lab" : 2,
 				"Analog Electronics" : 2,
 				"Programming I Lab" : 1
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"System Analysis and Design" : 4,
 				"Analog and Digital Communication" : 4,
 				"Operating Systems" : 4,
@@ -153,9 +153,9 @@
 				"Operating Systems Lab" : 2,
 				"Computer Graphics Lab" : 2,
 				"Computer System Architecture Lab" : 2
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Design and Analysis of Algorithms" : 4,
 				"Object Oriented Technology" : 4,
 				"Microprocessors and Applications" : 4,
@@ -165,9 +165,9 @@
 				"RDBMS Lab" : 2,
 				"Networking Lab" : 2,
 				"Technical and Business Communication" : 1
-			},
+			}],
 		"Semester6":
-			{
+			[{
 				"Multimedia and Applications" : 4,
 				"Software Engineering" : 4,
 				"Information Technology and Coding Techniques" : 4,
@@ -178,9 +178,9 @@
 				"Practical Training" : 2,
 				"Microwave and Satellite Communication Lab" : 2,
 				"Advanced Programming Lab" : 1
-			},
+			}],
 		"Semester7":
-			{
+			[{
 				"Internet and Web Engineering" : 4,
 				"Distributed Systems and Computing" : 4,
 				"Compiler and Translator Design" : 4,
@@ -192,9 +192,9 @@
 				"Compiler and Translator Design Lab" : 2,
 				"Practical Training" : 4,
 				"Minor Project" : 2
-			},
+			}],
 		"Semester8":
-			{
+			[{
 				"Information Security" : 4,
 				"Financial and Cost Management" : 4,
 				"Elective III" : 4,
@@ -202,14 +202,14 @@
 				"Major Project" : 8,
 				"Practical Training" : 4,
 				"Seminar Reports" : 2
-			}
-	}
+			}]
+	}],
 
 
 "ECE":
-	{
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -219,9 +219,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Principles of Electrical Engg" : 4,
 				"Applied Mechanics" : 4,
 				"Mathematics II" : 4,
@@ -231,9 +231,9 @@
 				"Applied Mechanics Lab" : 2
 				"Physics II/Electrical Engg Materials Lab" : 4
 				"Workshop II" : 2
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Electronics I" : 4,
 				"Circuits and Systems" : 4,
 				"Electrical Machines I" : 4,
@@ -244,9 +244,9 @@
 				"Electrical Measurements Lab" : 2,
 				"Machine Drawing" : 3,
 				"Programming I" : 1
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"Electronics II" : 4,
 				"Electromagnetics" : 4,
 				"Network Analysis and Synthesis" : 4,
@@ -259,9 +259,9 @@
 				"Practical Training" : 2,
 				"Report Writing" : 1,
 				"Programming II" : 1
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Transmission Lines" : 4,
 				"Control Engineering" : 4,
 				"Computer System Org." : 4,
@@ -271,26 +271,50 @@
 				"LIC Lab" : 2,
 				"Control Engineering Lab" : 2,
 				"Programming III" : 1
-			},
+			}],
 		"Semester6":
-			{
-
-			},
+			[{
+				"Microprocessors" : 4,
+				"Communication Principles & Ckts" : 4,
+				"Antennas & Propagation" : 4,
+				"Bipolar & Mos Analog Int Ckts" : 4,
+				"Filter Design" : 4,
+				"Microprocessors" : 2,
+				"Communication Principles & Ckts" : 2,
+				"Bipolar & MOS Analog Int Ckts" : 2,
+				"Programming IV" : 1,
+				"Practical Training" : 2
+			}],
 		"Semester7":
-			{
-
-			},
+			[{
+				"Microwave Engineering" : 4,
+				"Digital Circuits and Systems II" : 4,
+				"Communication System" : 4,
+				"Elective I" : 4,
+				"Elective II" : 4,
+				"Microwave Engineering" : 2,
+				"Digital Circuits and Systems II" : 2,
+				"Communication System" : 2,
+				"Practical Trainings" : 2,
+				"Programming V" : 1
+			}],
 		"Semester8":
-			{
-
-			}
-	}
+			[{
+				"Consumer Electronics" : 4,
+				"Elective III" : 4,
+				"Elective IV" : 4,
+				"Electives III and IV" : 2,
+				"Project" : 8,
+				"Practical Training" : 3,
+				"Seminar/Reports" : 1
+			}]
+	}],
 
 
 "ICE":
-	{
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -300,9 +324,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Principles of Electrical Engg" : 4,
 				"Applied Mechanics" : 4,
 				"Mathematics II" : 4,
@@ -312,9 +336,9 @@
 				"Applied Mechanics" : 2,
 				"Introduction to Programming" : 2,
 				"Physics of Materials" : 2
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Electronics I" : 4,
 				"Circuits and Systems" : 4,
 				"Power Apparatus" : 4,
@@ -325,9 +349,9 @@
 				"Electrical Measurements" : 2,
 				"Machine Drawing" : 3,
 				"Programming I" : 1
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"Electronics II" : 4,
 				"Fluid Mechanics and Thermodynamics" : 4,
 				"Electronic Instruments & Measuring Techniques" : 4,
@@ -340,9 +364,9 @@
 				"Practical Training" : 2,
 				"Report Writing" : 1,
 				"Programming II" : 1
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Analog and Digital Communication" : 4,
 				"Industrial and Analytical Instruments" : 4,
 				"Digital Integrated Circuits I" : 4,
@@ -352,9 +376,9 @@
 				"Digital Integrated Circuits I" : 2,
 				"Linear Integrated Circuits" : 2,
 				"Programming III" : 1
-			},
+			}],
 		"Semester6":
-			{
+			[{
 				"Microprocessor" : 4,
 				"Computer Aided Design" : 4,
 				"Industrial Electronics" : 4,
@@ -365,22 +389,37 @@
 				"Control Systems Lab" : 2,
 				"Programming IV" : 1,
 				"Practical Training" : 2
-			},
+			}],
 		"Semester7":
-			{
-
-			},
+			[{
+				"Control Systems II" : 4,
+				"Digital Int. Circuits II" : 4,
+				"Process Control" : 4,
+				"Elective I" : 4,
+				"Elective II" : 4,
+				"Control System Lab II" : 2,
+				"Digital Int Ckts. II" : 2,
+				"Instrumentation Lab II" : 2,
+				"Practical Trainings" : 3,
+				"IC410","Programming IV" : 1
+			}],
 		"Semester8":
-			{
-			
-			}
-	}
+			[{
+				"Consumer Electronics" : 4,
+				"Elective III" : 4,
+				"Elective IV" : 4,
+				"Electives III and IV" : 2,
+				"Project" : 8,
+				"Practical Training" : 4,
+				"Seminar/Reports" : 1
+			}]
+	}],
 
 
 "MPAE":
-	{
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -390,9 +429,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Electrical Sciences" : 4,
 				"Mathematics II" : 4,
 				"Mechanical Sciences" : 4,
@@ -403,9 +442,9 @@
 				"Introduction to Computer Lab" : 2,
 				"Mecanics of Solids Lab" : 2,
 				"Programming I Lab" : 1
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Machine Drawing and Graphics" : 4,
 				"Manufacturing Processes I" : 4,
 				"Electro mechanics" : 4,
@@ -416,9 +455,9 @@
 				"Electro Mechanics Lab" : 2,
 				"Analog and Digital Electronics Lab" : 2,
 				"Programming I Lab" : 1
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"Kinematics and Dynamics of Machinery" : 4,
 				"Control Systems" : 4,
 				"Mathematics III" : 4,
@@ -430,9 +469,9 @@
 				"Practical Training" : 2,
 				"Report Writing" : 1,
 				"Programming II" : 1
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Machine Tools, CNC & Automation" : 4,
 				"Transducers and Measurements" : 4,
 				"Tool Design" : 4,
@@ -443,9 +482,9 @@
 				"MA 304 based Lab" : 2,
 				"Transducers and Measurements Lab" : 2,
 				"Programming III" : 1
-			},
+			}],
 		"Semester6":
-			{
+			[{
 				"Robotics and CAM I" : 4,
 				"Computer Graphics" : 4,
 				"Applied Plasticity (Forming Processes)" : 4,
@@ -457,9 +496,9 @@
 				"Mechanical Design" : 2,
 				"Practical Training" : 1,
 				"Programming V" : 1
-			},
+			}],
 		"Semester7":
-			{
+			[{
 				"Introduction to CAD and Product Design" : 4,
 				"Modern Methods of Manufacturing" : 4,
 				"Industrial Electronics" : 4,
@@ -470,9 +509,9 @@
 				"Industrial Electronics Lab" : 2
 				"Practical Training" : 2
 				"Programming IV (AUTOCAD)" : 1
-			},
+			}],
 		"Semester8":
-			{
+			[{
 				"Macaronis or AI" : 4,
 				"Elective III" : 4,
 				"Elective IV" : 4,
@@ -481,14 +520,14 @@
 				"Project" : 8,
 				"Practical Training" : 2,
 				"Seminar and Reports" : 1
-			}
-	}
+			}]
+	}],
 
 
 "BT":
-	{
+	[{
 		"Semester1":
-			{
+			[{
 				"Humanities" : 4,
 				"Mathematics I" : 4,
 				"Physics I" : 4,
@@ -498,9 +537,9 @@
 				"Physics I" : 2,
 				"Chemistry" : 2,
 				"Workshop I" : 2
-			},
+			}],
 		"Semester2":
-			{
+			[{
 				"Introduction to Biotechnology" : 4,
 				"Physics II" : 4,
 				"Chemistry II" : 4,
@@ -510,9 +549,9 @@
 				"Physics II Lab" : 2,
 				"Chemistry II/Electrical Engg Materials Lab" : 2,
 				"Mechanical Sciences Lab" : 2
-			},
+			}],
 		"Semester3":
-			{
+			[{
 				"Cell Biology" : 4,
 				"Biochemistry" : 4,
 				"Microbiology" : 4,
@@ -522,9 +561,9 @@
 				"Biochemistry and Microbiology Lab" : 2,
 				"Basics of Computer Systems and Programming Lab" : 2,
 				"Basic Electronics and Instrumentation Lab" : 2
-			},
+			}],
 		"Semester4":
-			{
+			[{
 				"Molecular Biology" : 4,
 				"Genetics" : 4,
 				"Methods and Instrumentation in Biotechnology" : 4,
@@ -534,9 +573,9 @@
 				"Methods and Instrumentation in Biotechnology Lab" : 2,
 				"Data Structures Lab" : 2,
 				"Project" : 2
-			},
+			}],
 		"Semester5":
-			{
+			[{
 				"Structural Biology" : 4,
 				"Immunology and Immuno-technology" : 4,
 				"Recombinant-DNA Technology I" : 4,
@@ -547,9 +586,9 @@
 				"Recombinant-DNA Technology I Lab" : 2
 				"DBMS Lab" : 2
 				"Term Paper and Seminar" : 2
-			},
+			}],
 		"Semester6":
-			{
+			[{
 				"Recombinant-DNA Technology II" : 4,
 				"Enzymology and Enzyme Technology" : 4,
 				"Plant and Animal Biotechnology" : 4,
@@ -559,39 +598,30 @@
 				"Enzymology and Enzyme Technology Lab" : 2,
 				"Plant and Animal Biotechnology Lab" : 2,
 				"Computational Biology I Lab" : 1
-			},
+			}],
 		"Semester7":
-			{
-
-			},
+			[{
+				"Computational Biology II" : 4,
+				"Bioprocess Technology" : 4,
+				"Downstream Processing" : 4,
+				"Elective I" : 4,
+				"Manag.,Accounting and Cost Control" : 4,
+				"Computational Biology Lab" : 2,
+				"Bioprocess Tech. Lab" : 2,
+				"Downstream Processing Lab" : 2,
+				"Practical Training" : 3,
+				"Seminar" : 1
+			}],
 		"Semester8":
-			{
-
-			}
-	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+			[{
+				"Genomics and Proteomics" : 4,
+				"Elective II" : 4,
+				"Project Management" : 4,
+				"Principles of Management" : 4,
+				"Genomics and Proteomics Lab" : 2,
+				"Major Project" : 8,
+				"Practical Training" : 4,
+				"Seminar/Reports" : 1
+			}]
+	}]
+}
