@@ -504,10 +504,10 @@
 				"Industrial Electronics" : 4,
 				"Elective I" : 4,
 				"Elective II" : 4,
-				"CAD Lab" : 2
-				"Modern Methods of Manufacturing Lab" : 2
-				"Industrial Electronics Lab" : 2
-				"Practical Training" : 2
+				"CAD Lab" : 2,
+				"Modern Methods of Manufacturing Lab" : 2,
+				"Industrial Electronics Lab" : 2,
+				"Practical Training" : 2,
 				"Programming IV (AUTOCAD)" : 1
 			}],
 		"Semester8":
