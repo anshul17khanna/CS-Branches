@@ -227,15 +227,9 @@
 				"Mathematics II" : 4,
 				"Physics II" : 4,
 				"Electrical Engineering and Materials" : 4,
-<<<<<<< HEAD
 				"Principles of Electrical Engg. Practical" : 2,
 				"Applied Mechanics Practical" : 2,
 				"Physics II/Electrical Engg Materials Practical" : 4,
-=======
-				"Principles of Electrical Engg. Lab" : 2,
-				"Applied Mechanics Lab" : 2,
-				"Physics II/Electrical Engg Materials Lab" : 4,
->>>>>>> d3991b793ffed028075147e84e502bfb3faa19a0
 				"Workshop II" : 2
 			}],
 		"Semester3":
@@ -510,15 +504,9 @@
 				"Industrial Electronics" : 4,
 				"Elective I" : 4,
 				"Elective II" : 4,
-<<<<<<< HEAD
 				"CAD Practical" : 2,
 				"Modern Methods of Manufacturing Practical" : 2,
 				"Industrial Electronics Practical" : 2,
-=======
-				"CAD Lab" : 2,
-				"Modern Methods of Manufacturing Lab" : 2,
-				"Industrial Electronics Lab" : 2,
->>>>>>> d3991b793ffed028075147e84e502bfb3faa19a0
 				"Practical Training" : 2,
 				"Programming IV (AUTOCAD)" : 1
 			}],
@@ -593,17 +581,10 @@
 				"Recombinant-DNA Technology I" : 4,
 				"DBMS" : 4,
 				"Chemical Engineering Principles" : 4,
-<<<<<<< HEAD
 				"Structural Biology Practical" : 2,
 				"Immunology and Immuno-technology Practical" : 2,
 				"Recombinant-DNA Technology I Practical" : 2,
 				"DBMS Practical" : 2,
-=======
-				"Structural Biology Lab" : 2,
-				"Immunology and Immuno-technology Lab" : 2,
-				"Recombinant-DNA Technology I Lab" : 2,
-				"DBMS Lab" : 2,
->>>>>>> d3991b793ffed028075147e84e502bfb3faa19a0
 				"Term Paper and Seminar" : 2
 			}],
 		"Semester6":
@@ -644,3 +625,5 @@
 			}]
 	}]
 }
+
+
