@@ -227,9 +227,9 @@
 				"Mathematics II" : 4,
 				"Physics II" : 4,
 				"Electrical Engineering and Materials" : 4,
-				"Principles of Electrical Engg. Lab" : 2
-				"Applied Mechanics Lab" : 2
-				"Physics II/Electrical Engg Materials Lab" : 4
+				"Principles of Electrical Engg. Lab" : 2,
+				"Applied Mechanics Lab" : 2,
+				"Physics II/Electrical Engg Materials Lab" : 4,
 				"Workshop II" : 2
 			}],
 		"Semester3":
@@ -401,7 +401,7 @@
 				"Digital Int Ckts. II" : 2,
 				"Instrumentation Lab II" : 2,
 				"Practical Trainings" : 3,
-				"IC410","Programming IV" : 1
+				"Programming IV" : 1
 			}],
 		"Semester8":
 			[{
