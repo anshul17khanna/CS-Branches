@@ -504,10 +504,10 @@
 				"Industrial Electronics" : 4,
 				"Elective I" : 4,
 				"Elective II" : 4,
-				"CAD Lab" : 2
-				"Modern Methods of Manufacturing Lab" : 2
-				"Industrial Electronics Lab" : 2
-				"Practical Training" : 2
+				"CAD Lab" : 2,
+				"Modern Methods of Manufacturing Lab" : 2,
+				"Industrial Electronics Lab" : 2,
+				"Practical Training" : 2,
 				"Programming IV (AUTOCAD)" : 1
 			}],
 		"Semester8":
@@ -581,10 +581,10 @@
 				"Recombinant-DNA Technology I" : 4,
 				"DBMS" : 4,
 				"Chemical Engineering Principles" : 4,
-				"Structural Biology Lab" : 2
-				"Immunology and Immuno-technology Lab" : 2
-				"Recombinant-DNA Technology I Lab" : 2
-				"DBMS Lab" : 2
+				"Structural Biology Lab" : 2,
+				"Immunology and Immuno-technology Lab" : 2,
+				"Recombinant-DNA Technology I Lab" : 2,
+				"DBMS Lab" : 2,
 				"Term Paper and Seminar" : 2
 			}],
 		"Semester6":
